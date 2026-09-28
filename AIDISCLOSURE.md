@@ -56,8 +56,13 @@ Prompt 2:
 keep going fren, I ran out of free usage credits
 ```
 
+Prompt 3:  
+```bash
+ok cool and how would i make testcases for this, just a .sh file that runs the program ? edit the makefile to include make test w/ a way to run testcases
+```
+
 Every line of `ipv4.cpp` and `Makefile` is AI-generated.  
-The test cases were human-authored.    
+The test cases were human-authored, but the shell script for running tests, `test.sh`, was AI-generated.    
 I did not have to make any modifications to the AI-generated output.  
 
 Verification Statement  
